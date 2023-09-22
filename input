@@ -1,0 +1,9 @@
+name=input("what is your name")
+print("my name is ", name)
+age=input("how old are you")
+print("i am " , age, "old")
+fruit=input("what is you favourite fruit")
+print("my favourite fruit is ", fruit)
+
+name=input("what is your name")
+print("hello ", name)
